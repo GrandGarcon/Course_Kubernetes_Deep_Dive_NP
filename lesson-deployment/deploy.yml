@@ -1,4 +1,5 @@
 apiVersion: apps/v1
+# for defining the label of the  type of the k8 service . 
 kind: Deployment
 metadata:
   labels:
